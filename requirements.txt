@@ -1,0 +1,90 @@
+asgiref==3.7.2
+attrs==23.2.0
+audioread==3.0.1
+Brotli @ file:///C:/Windows/Temp/abs_63l7912z0e/croots/recipe/brotli-split_1659616056886/work
+certifi @ file:///C:/b/abs_91u83siphd/croot/certifi_1700501720658/work/certifi
+cffi @ file:///C:/b/abs_924gv1kxzj/croot/cffi_1700254355075/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+colorama==0.4.6
+contourpy==1.2.0
+cryptography @ file:///C:/b/abs_e8cnom_zw_/croot/cryptography_1702071486468/work
+cycler==0.12.1
+decorator==4.4.2
+Django==5.0.1
+django-cors-headers==4.3.1
+exceptiongroup==1.2.0
+ffmpeg-downloader==0.3.0
+ffmpeg-python==0.2.0
+filelock @ file:///C:/b/abs_f2gie28u58/croot/filelock_1700591233643/work
+fonttools==4.50.0
+fsspec==2023.12.2
+future==1.0.0
+gmpy2 @ file:///C:/ci/gmpy2_1645438895476/work
+h11==0.14.0
+huggingface-hub==0.20.3
+idna @ file:///C:/b/abs_bdhbebrioa/croot/idna_1666125572046/work
+imageio==2.34.0
+imageio-ffmpeg==0.4.9
+Jinja2 @ file:///C:/b/abs_7cdis66kl9/croot/jinja2_1666908141852/work
+joblib==1.3.2
+kiwisolver==1.4.5
+langdetect==1.0.9
+lazy_loader==0.3
+librosa==0.10.1
+llvmlite==0.42.0
+MarkupSafe @ file:///C:/b/abs_ecfdqh67b_/croot/markupsafe_1704206030535/work
+matplotlib==3.8.3
+mkl-fft @ file:///C:/b/abs_19i1y8ykas/croot/mkl_fft_1695058226480/work
+mkl-random @ file:///C:/b/abs_edwkj1_o69/croot/mkl_random_1695059866750/work
+mkl-service==2.4.0
+moviepy==1.0.3
+mpmath @ file:///C:/b/abs_7833jrbiox/croot/mpmath_1690848321154/work
+msgpack==1.0.8
+networkx @ file:///C:/b/abs_e6gi1go5op/croot/networkx_1690562046966/work
+numba==0.59.0
+numpy @ file:///C:/b/abs_16b2j7ad8n/croot/numpy_and_numpy_base_1704311752418/work/dist/numpy-1.26.3-cp310-cp310-win_amd64.whl#sha256=e84057072c37569bd0e11652dc2a75980d4d360f2391adf6a29a2fb1622d20ff
+outcome==1.3.0.post0
+packaging==23.2
+Pillow @ file:///C:/b/abs_20ztcm8lgk/croot/pillow_1696580089746/work
+platformdirs==4.2.0
+pooch==1.8.1
+proglog==0.1.10
+py-marytts==0.1.4
+pycountry==23.12.11
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pydub==0.25.1
+pyOpenSSL @ file:///C:/b/abs_08f38zyck4/croot/pyopenssl_1690225407403/work
+pyparsing==3.1.2
+PySocks @ file:///C:/ci_310/pysocks_1642089375450/work
+python-dateutil==2.9.0.post0
+PyYAML @ file:///C:/b/abs_782o3mbw7z/croot/pyyaml_1698096085010/work
+regex==2023.12.25
+requests @ file:///C:/b/abs_316c2inijk/croot/requests_1690400295842/work
+safetensors==0.4.1
+scikit-learn==1.4.1.post1
+scipy==1.12.0
+selenium==4.19.0
+sentencepiece==0.1.99
+six==1.16.0
+sniffio==1.3.1
+sortedcontainers==2.4.0
+soundfile==0.12.1
+soxr==0.3.7
+SpeechRecognition==3.10.1
+sqlparse==0.4.4
+sympy @ file:///C:/b/abs_82njkonm7f/croot/sympy_1701397685028/work
+threadpoolctl==3.3.0
+tokenizers==0.15.1
+torch==2.1.2
+torchaudio==2.1.2
+torchvision==0.16.2
+tqdm==4.66.1
+transformers==4.37.2
+trio==0.25.0
+trio-websocket==0.11.1
+typing_extensions @ file:///C:/b/abs_72cdotwc_6/croot/typing_extensions_1705599364138/work
+tzdata==2023.4
+urllib3 @ file:///C:/b/abs_9cmlsrm3ys/croot/urllib3_1698257595508/work
+whitenoise==6.6.0
+win-inet-pton @ file:///C:/ci_310/win_inet_pton_1642658466512/work
+wsproto==1.2.0
