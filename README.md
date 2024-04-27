@@ -38,7 +38,7 @@ $npm run
 http://localhost:5173/
 
 Github URL:
-https://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@github.com/Mayesha8263/FYP
+https://github.com/Mayesha8263/FYP
 
 Personal Access Token for GitHub:
 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
