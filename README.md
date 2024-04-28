@@ -28,18 +28,15 @@ $pip install -r requirements.txt
 
 8) Run Backend: 
 $cd backend
+$npm install
 $python manage.py runserver
 
 9) Run Frontend:
 $cd frontend
+$npm install
 $npm run 
 
 10) Open URL in terminal 
 http://localhost:5173/
 
-Github URL:
-https://github.com/Mayesha8263/FYP
-
-Personal Access Token for GitHub:
-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
 
